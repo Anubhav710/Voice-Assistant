@@ -1,0 +1,42 @@
+{
+    "musics": [
+        {
+            "id":1,
+            "name":"Alan Walker",
+            "image":"https://i.pinimg.com/564x/6f/0e/73/6f0e734fde672cd8070a584f39be58db.jpg",
+            "url":"assets/audios/ak.mp3",
+            "color": "0xffa11431"
+            
+
+        },
+        {
+            "id":2,
+            "name":"Taylor Swift",
+            "image":"https://i.pinimg.com/564x/11/3e/32/113e32774474843d2a13f938b892e287.jpg",
+            "url":"assets/audios/Love Story - Taylor Swift-(PagalWorld) (1).mp3"
+            ,
+            "color": "0xff221420"
+            
+
+        },
+        {
+            "id":3,
+            "name":"Justin Bieber",
+            "image":"https://i.pinimg.com/564x/ef/20/5b/ef205b2e72d7b91ac7cdbdee80b83703.jpg",
+            "url":"assets/audios/Stay(PaglaSongs).mp3"
+            ,
+            "color": "0xff04080b"
+            
+
+        },
+        {
+            "id":4,
+            "name":"Ariana Grande",
+            "image":"https://www.freewalldownload.com/ariana-grande/cute-ariana-grande-look-download-free-laptop-background-images-hd.jpg",
+            "url":"assets/audios/Blank Space.mp3",
+            "color": "0xff066c53"
+            
+
+        }
+    ]
+}
